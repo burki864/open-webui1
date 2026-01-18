@@ -18,3 +18,12 @@ uploads
 **/*.db
 _test
 backend/data/*
+models
+models/**
+*.gguf
+*.bin
+*.pt
+*.onnx
+.cache
+npm-cache
+yarn-cache
